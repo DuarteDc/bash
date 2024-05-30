@@ -1,0 +1,2 @@
+ls: no se puede acceder a 'existe': No existe el fichero o el directorio
+ls: no se puede acceder a 'xD': No existe el fichero o el directorio

@@ -1,0 +1,13 @@
+comillas.sh
+error.txt
+newfile.txt
+no
+noexiste
+nueva-salida.txt
+php v
+README.md
+salida-error.txt
+salida.txt
+stderr.sh
+stdoutput.sh
+text.txt

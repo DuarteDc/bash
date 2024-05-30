@@ -1,0 +1,7 @@
+comillas.sh
+newfile.txt
+php v
+README.md
+redirecion.sh
+text.txt
+Hola mundo ..

@@ -1,0 +1,10 @@
+total 24K
+drwxr-xr-x. 1 duartebv duartebv 122 may 29 22:31 .
+drwxr-xr-x. 1 duartebv duartebv 106 may 28 22:55 ..
+-rwxr-xr-x. 1 duartebv duartebv 467 may 28 23:18 comillas.sh
+drwxr-xr-x. 1 duartebv duartebv 144 may 28 23:25 .git
+-rw-r--r--. 1 duartebv duartebv 537 may 29 22:30 newfile.txt
+-rw-r--r--. 1 duartebv duartebv 209 may 28 23:25 php v
+-rw-r--r--. 1 duartebv duartebv  50 may 28 23:23 README.md
+-rwxr-xr-x. 1 duartebv duartebv 184 may 29 22:31 redirecion.sh
+-rw-r--r--. 1 duartebv duartebv   0 may 29 22:31 text.txt

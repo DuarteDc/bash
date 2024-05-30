@@ -1,0 +1,14 @@
+comillas.sh
+error.txt
+newfile.txt
+no
+noexiste
+nueva-salida.txt
+php v
+README.md
+salida-error.txt
+salida.txt
+stderr.sh
+stdoutput.sh
+text.txt
+ls: no se puede acceder a 'xdxd': No existe el fichero o el directorio
